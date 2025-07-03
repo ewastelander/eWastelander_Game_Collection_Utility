@@ -1,4 +1,4 @@
-# eWastelander-Game-Collection-Utility
+# eWastelander Game Collection Utility
 Add, edit, delete, browse and sort your game collection in a unix terminal.
 
 ### Features
